@@ -6,7 +6,7 @@ languages:
   - item: SQL
   - item: Rust
 
-software:
+softwares:
   - item: Unity Engine
   - item: Unreal Engine 4
   - item: Godot Engine
