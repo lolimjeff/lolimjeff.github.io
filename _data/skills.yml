@@ -1,33 +1,21 @@
 languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
+  - item: C++
+  - item: C#
   - item: HTML
-  - item: CSS/Sass
-  - item: Python
+  - item: CSS
   - item: SQL
-  - item: R
+  - item: Rust
 
-frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+software:
+  - item: Unity Engine
+  - item: Unreal Engine 4
+  - item: Godot Engine
+  - item: Ableton Live
+  - item: Audacity
 
 tools:
   - item: Bash
   - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
-  - item: MongoDB
+  - item: FMOD
+  - item: Wwise
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
