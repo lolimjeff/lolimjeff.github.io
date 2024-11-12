@@ -1,13 +1,23 @@
-# - name: St. Castro Plaza: Night Shift
-#   url: https://spacemonke-games.itch.io/st-castro-plaza-night-shift
-#   code: https://spacemonke-games.itch.io/st-castro-plaza-night-shift
-#   description: You are a guard on night shift that needs to do their guard duty of closing up shops that some store owners left open after closing hours. Can you survive the Night Shift? 
-#   used:
-#     - thing: Unity Engine
-#     - thing: Ableton Live
-#     - thing: FMOD
-#     - thing: C#
-#     - thing: Audacity
+- name: L.I.F.E.
+  url: https://zeineru.itch.io/life
+  code: https://zeineru.itch.io/life
+  description: A visual novel made in Unity.
+  used:
+    - thing: Unity Engine
+    - thing: Ableton Live
+    - thing: Wwise
+    - thing: C#
+    - thing: Audacity
+
+- name: Protect Your Pawperty
+  url: https://v3.globalgamejam.org/2020/games/protect-your-pawperty-4
+  code: https://v3.globalgamejam.org/2020/games/protect-your-pawperty-4
+  description: A 2D point & click action game made during Global Game Jam 2020
+  used:
+    - thing: Unity Engine
+    - thing: Ableton Live
+    - thing: C#
+    - thing: Audacity
 
 # - name: Halcyon Theme
 #   url: https://bchiang7.github.io/halcyon-site/
